@@ -4,7 +4,7 @@ description = "Model Context Protocol Server for Tavily"
 version = "0.0.1"
 schema_version = 1
 authors = ["Chlorodose <chlorodose@chlorodose.me>"]
-repository = "https://github.com/chlorodose/zed-tavily-context-server"
+repository = "https://github.com/chlorodose/zed-mcp-server-tavily"
 
 [context_servers.mcp-server-tavily]
 name = "Tavily MCP Server"
